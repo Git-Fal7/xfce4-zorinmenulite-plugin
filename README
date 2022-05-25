@@ -1,0 +1,36 @@
+About
+=====
+
+Zorin Menu Lite is the default application launcher in Zorin OS Lite. 
+When you open it you are shown a list of categories for the installed apps.
+You can browse through all of your installed applications by clicking on
+the category buttons. Top level categories make browsing fast,
+and simple to switch between.
+
+If you're not sure exactly where a program is listed, instead of browsing
+through each category you can simply enter a search term. The search
+field is focused when opening the menu, so you can just start typing.
+Application descriptions as well as names are searched, which allows you
+to find a program by using a general word (such as "browser" to find all
+web browsers installed on your computer).
+
+
+Keyboard Shortcut
+=================
+
+A script to open and close Zorin Menu Lite from the keyboard is included.
+To enable support, open the keyboard preferences
+['All Settings' -> 'Keyboard' -> 'Application Shortcuts']. Add a shortcut
+for the command 'xfce4-popup-zorinmenulite' and bind it to the keyboard
+shortcut of your choice.
+
+
+Compiz Workaround
+=================
+
+To allow Zorin Menu Lite to focus the search field when shown under compiz
+you will need to add it to the list of windows ignored by compiz's keyboard
+focus prevention. Open the focus prevention of the compiz settings
+manager [ccsm -> 'General Settings' -> 'Focus Prevention'].
+Add (title="Zorin Menu Lite") to the exclude pattern to make compiz ignore
+Zorin Menu Lite and allow it to focus when shown.

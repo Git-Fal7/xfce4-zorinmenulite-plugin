@@ -1,0 +1,9 @@
+[Xfce Panel]
+Type=X-XFCE-PanelPlugin
+Encoding=UTF-8
+Name=Zorin Menu Lite
+Comment=Show a menu to easily access installed applications
+Icon=xfce4-zorinmenulite
+X-XFCE-Module=zorinmenulite
+X-XFCE-Internal=false
+X-XFCE-API=2.0
