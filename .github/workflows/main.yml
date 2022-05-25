@@ -1,0 +1,48 @@
+name: build deb
+
+on: [ create, push, pull_request ]
+
+env:
+  APP_NAME: 'xfce4-zorinmenulite-plugin'
+  APP_VERSION: '1.1.4'
+  DEV_DEPENDS: 'debhelper cmake pkg-config gettext libexo-2-dev libgarcon-1-0-dev libgtk-3-dev libxfce4ui-2-dev libxfce4util-dev libxfce4panel-2.0-dev'
+  DEPENDS: 'libc6 (>= 2.14), libexo-2-0 (>= 0.11.0), libgarcon-1-0 (>= 0.6.0), libgcc-s1 (>= 3.0), libglib2.0-0 (>= 2.35.9), libgtk-3-0 (>= 3.21.5), libstdc++6 (>= 5.2), libxfce4panel-2.0-4 (>= 4.11.0), libxfce4ui-2-0 (>= 4.11.0), libxfce4util7 (>= 4.9.0)'
+  MAINTAINER: 'Artyom Zorin'
+  DESC: 'The default application menu in Zorin OS Lite Zorin Menu Lite is the default application launcher in Zorin OS Lite.  When you open it you are shown a list of categories for the installed apps. You can browse through all of your installed applications by clicking on the category buttons. Top level categories make browsing fast, and simple to switch between.'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: Install dependencies
+        run: |
+          sudo apt-get install ${{ env.DEV_DEPENDS }}
+
+      - name: Create Folders
+        run: |
+          mkdir -p build
+          mkdir -p .debpkg/usr/
+        
+      - name: Build using cmake
+        run: |
+          cmake -DCMAKE_BUILD_TYPE=release -DCMAKE_INSTALL_PREFIX=/usr
+          make
+          make DESTDIR=".debpkg/" install
+          
+      - uses: jiro4989/build-deb-action@v2
+        with:
+          package: ${{ env.APP_NAME }}
+          package_root: .debpkg
+          maintainer: ${{ env.MAINTAINER }}
+          depends: ${{ env.DEPENDS }}
+          version: ${{ env.APP_VERSION }}
+          arch: 'amd64'
+          desc: '${{ env.DESC }}'
+      
+      - uses: actions/upload-artifact@v3
+        with:
+          name: artifact-deb
+          path: |
+            ./*.deb
