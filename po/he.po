@@ -1,0 +1,95 @@
+# Hebrew translation of xfce4-zorinmenulite-plugin.
+# Copyright (C) 2017 Graeme Gott
+# This file is distributed under the same license as the xfce4-zorinmenulite-plugin package.
+#
+# Translators:
+# Elishai Eliyahu <e1907@mm.st>, 2016
+# Eli Shleifer <eligator@gmail.com>, 2017
+# GenghisKhan <genghiskhan@gmx.ca>, 2013-2016
+# GenghisKhan <genghiskhan@gmx.ca>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: Zorin Menu Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-06 22:55+0000\n"
+"PO-Revision-Date: 2017-09-23 19:01+0000\n"
+"Last-Translator: Eli Shleifer <eligator@gmail.com>\n"
+"Language-Team: Hebrew (http://www.transifex.com/gottcode/xfce4-zorinmenulite-"
+"plugin/language/he/)\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Add to Desktop"
+msgstr "הוסף לתוך שולחן עבודה"
+
+msgid "Add to Panel"
+msgstr "הוסף לתוך לוח"
+
+msgid "All"
+msgstr "כולם"
+
+msgid "Back"
+msgstr "חזרה"
+
+msgid "Edit Application..."
+msgstr "ערוך יישומים..."
+
+msgid "Edit _Profile"
+msgstr "ערוך _פרופיל"
+
+msgid "Failed to edit profile."
+msgstr "נכשל לערוך פרופיל."
+
+msgid "Failed to execute command \"%s\"."
+msgstr "נכשל לבצע פקודה \"%s\"."
+
+msgid "Failed to launch menu editor."
+msgstr "נכשל להפעיל עורך תפריט."
+
+msgid "Failed to lock screen."
+msgstr "נכשל לנעול מסך."
+
+msgid "Failed to open settings manager."
+msgstr "נכשל לפתוח מנהל הגדרות."
+
+msgid "Home"
+msgstr "בית"
+
+msgid "Open URI"
+msgstr "פתח URI"
+
+msgid "Run %s"
+msgstr "הפעל %s"
+
+msgid "Search Action"
+msgstr "פעולת חיפוש"
+
+msgid "Settings"
+msgstr "הגדרות"
+
+msgid "Shut _Down"
+msgstr "_כבה"
+
+msgid "Software"
+msgstr "תכנה"
+
+msgid "Unable to add launcher to desktop."
+msgstr "לא יכול להוסיף מפעיל לשולחן עבודה."
+
+msgid "Unable to add launcher to panel."
+msgstr "לא יכול להוסיף מפעיל ללוח."
+
+msgid "Unable to edit launcher."
+msgstr "לא ניתן לערוך את המפעיל."
+
+msgid "_Edit Applications"
+msgstr "_ערוך יישומים"
+
+msgid "_Lock Screen"
+msgstr "_נעל מסך"
+
+msgid "translator-credits"
+msgstr "שבחים-מתרגמים"

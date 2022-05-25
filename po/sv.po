@@ -1,0 +1,98 @@
+# Swedish translation of xfce4-zorinmenulite-plugin.
+# Copyright (C) 2017 Graeme Gott
+# This file is distributed under the same license as the xfce4-zorinmenulite-plugin package.
+#
+# Translators:
+# Andreas Gustafsson <addegsson@gmail.com>, 2013
+# Patrik Nilsson <asavartzeth@gmail.com>, 2014
+# Fredrik Nyqvist <fredrik@nyqvist.biz>, 2013
+# Patrik Nilsson <asavartzeth@gmail.com>, 2014-2015,2017
+# Påvel Nicklasson <pavel@frimix.se>, 2015
+# Påvel Nicklasson <pavel@frimixse>, 2015
+# Tommy Arvidsson <tarvidsson7834@gmail.com>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: Zorin Menu Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-06 22:55+0000\n"
+"PO-Revision-Date: 2017-09-14 13:14+0000\n"
+"Last-Translator: Patrik Nilsson <asavartzeth@gmail.com>\n"
+"Language-Team: Swedish (Sweden) (http://www.transifex.com/gottcode/xfce4-"
+"zorinmenulite-plugin/language/sv_SE/)\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Add to Desktop"
+msgstr "Lägg till på skrivbordet"
+
+msgid "Add to Panel"
+msgstr "Lägg till i panelen"
+
+msgid "All"
+msgstr "Alla"
+
+msgid "Back"
+msgstr "Bakåt"
+
+msgid "Edit Application..."
+msgstr "Redigera program..."
+
+msgid "Edit _Profile"
+msgstr "Redigera _profil"
+
+msgid "Failed to edit profile."
+msgstr "Misslyckades med att redigera profil."
+
+msgid "Failed to execute command \"%s\"."
+msgstr "Misslyckades med att utföra kommando \"%s\"."
+
+msgid "Failed to launch menu editor."
+msgstr "Misslyckades med att starta menyredigerare."
+
+msgid "Failed to lock screen."
+msgstr "Misslyckades med att låsa skärmen."
+
+msgid "Failed to open settings manager."
+msgstr "Misslyckades med att öppna inställningshanteraren."
+
+msgid "Home"
+msgstr "Hem"
+
+msgid "Open URI"
+msgstr "Öppna URI"
+
+msgid "Run %s"
+msgstr "Kör %s"
+
+msgid "Search Action"
+msgstr "Sökåtgärd"
+
+msgid "Settings"
+msgstr "Inställningar"
+
+msgid "Shut _Down"
+msgstr "Stäng _av"
+
+msgid "Software"
+msgstr "Programvara"
+
+msgid "Unable to add launcher to desktop."
+msgstr "Kunde inte skapa skrivbordsgenväg."
+
+msgid "Unable to add launcher to panel."
+msgstr "Kunde inte lägga till programstartare i panelen."
+
+msgid "Unable to edit launcher."
+msgstr "Det gick inte att redigera programstartare."
+
+msgid "_Edit Applications"
+msgstr "_Redigera program"
+
+msgid "_Lock Screen"
+msgstr "_Lås skärm"
+
+msgid "translator-credits"
+msgstr "Patrik Nilsson <translation@hembas.se>"

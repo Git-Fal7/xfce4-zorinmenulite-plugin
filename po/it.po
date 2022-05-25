@@ -1,0 +1,93 @@
+# Italian translation of xfce4-zorinmenulite-plugin.
+# Copyright (C) 2017 Graeme Gott
+# This file is distributed under the same license as the xfce4-zorinmenulite-plugin package.
+#
+# Translators:
+# Bernardo Miguel Savone <bmsavone@gmail.com>, 2013-2015
+# Patrizio Bellan <patrizio.bellan@gmail.com>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: Zorin Menu Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-06 22:55+0000\n"
+"PO-Revision-Date: 2017-04-12 23:53+0000\n"
+"Last-Translator: Patrizio Bellan <patrizio.bellan@gmail.com>\n"
+"Language-Team: Italian (http://www.transifex.com/projects/p/xfce4-zorinmenulite-"
+"plugin/language/it/)\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Add to Desktop"
+msgstr "Aggiungi al Desktop"
+
+msgid "Add to Panel"
+msgstr "Aggiungi al Pannello"
+
+msgid "All"
+msgstr "Tutto"
+
+msgid "Back"
+msgstr "Indietro"
+
+msgid "Edit Application..."
+msgstr "Modifica Applicazione..."
+
+msgid "Edit _Profile"
+msgstr "Edita _Profilo"
+
+msgid "Failed to edit profile."
+msgstr "Impossibile editare il profilo."
+
+msgid "Failed to execute command \"%s\"."
+msgstr "Impossibile eseguire il comando \"%s\"."
+
+msgid "Failed to launch menu editor."
+msgstr "Impossibile avviare l'editor di menu."
+
+msgid "Failed to lock screen."
+msgstr "Impossibile bloccare lo schermo."
+
+msgid "Failed to open settings manager."
+msgstr "Impossibile aprire il Gestore delle impostazioni."
+
+msgid "Home"
+msgstr "Home"
+
+msgid "Open URI"
+msgstr "Apri URI"
+
+msgid "Run %s"
+msgstr "Esegui %s"
+
+msgid "Search Action"
+msgstr "Ricerca azioni"
+
+msgid "Settings"
+msgstr "Impostazioni"
+
+msgid "Shut _Down"
+msgstr "_Spegni"
+
+msgid "Software"
+msgstr "Software"
+
+msgid "Unable to add launcher to desktop."
+msgstr "Impossibile aggiungere lanciatore al desktop."
+
+msgid "Unable to add launcher to panel."
+msgstr "Impossibile aggiungere lanciatore al pannello."
+
+msgid "Unable to edit launcher."
+msgstr "Impossibile modificare il launcher"
+
+msgid "_Edit Applications"
+msgstr "_Edita applicazioni"
+
+msgid "_Lock Screen"
+msgstr "_Blocca schermo"
+
+msgid "translator-credits"
+msgstr "translator-credits"

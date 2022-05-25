@@ -1,0 +1,91 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# F Wolff <friedel@translate.org.za>, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-06 22:55+0000\n"
+"PO-Revision-Date: 2013-09-27 16:17+0200\n"
+"Last-Translator: F Wolff <friedel@translate.org.za>\n"
+"Language-Team: translate-discuss-af@lists.sourceforge.net\n"
+"Language: af\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
+"X-Project-Style: gnome\n"
+
+msgid "Add to Desktop"
+msgstr ""
+
+msgid "Add to Panel"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Back"
+msgstr "Terug"
+
+msgid "Edit Application..."
+msgstr ""
+
+msgid "Edit _Profile"
+msgstr ""
+
+msgid "Failed to edit profile."
+msgstr ""
+
+msgid "Failed to execute command \"%s\"."
+msgstr ""
+
+msgid "Failed to launch menu editor."
+msgstr ""
+
+msgid "Failed to lock screen."
+msgstr ""
+
+msgid "Failed to open settings manager."
+msgstr ""
+
+msgid "Home"
+msgstr "Tuis"
+
+msgid "Open URI"
+msgstr ""
+
+msgid "Run %s"
+msgstr ""
+
+msgid "Search Action"
+msgstr ""
+
+msgid "Settings"
+msgstr "Instellings"
+
+msgid "Shut _Down"
+msgstr ""
+
+msgid "Software"
+msgstr "Sagteware"
+
+msgid "Unable to add launcher to desktop."
+msgstr ""
+
+msgid "Unable to add launcher to panel."
+msgstr ""
+
+msgid "Unable to edit launcher."
+msgstr ""
+
+msgid "_Edit Applications"
+msgstr ""
+
+msgid "_Lock Screen"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""

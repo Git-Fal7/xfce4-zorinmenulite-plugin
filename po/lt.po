@@ -1,0 +1,93 @@
+# Lithuanian translation of xfce4-zorinmenulite-plugin.
+# Copyright (C) 2017 Graeme Gott
+# This file is distributed under the same license as the xfce4-zorinmenulite-plugin package.
+#
+# Translators:
+# Moo, 2014-2017
+msgid ""
+msgstr ""
+"Project-Id-Version: Zorin Menu Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-06 22:55+0000\n"
+"PO-Revision-Date: 2017-09-23 20:28+0000\n"
+"Last-Translator: Moo\n"
+"Language-Team: Lithuanian (http://www.transifex.com/gottcode/xfce4-"
+"zorinmenulite-plugin/language/lt/)\n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
+"%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "Add to Desktop"
+msgstr "Pridėti į darbalaukį"
+
+msgid "Add to Panel"
+msgstr "Pridėti į skydelį"
+
+msgid "All"
+msgstr "Visos"
+
+msgid "Back"
+msgstr "Atgal"
+
+msgid "Edit Application..."
+msgstr "Taisyti programą..."
+
+msgid "Edit _Profile"
+msgstr "Redaguoti pr_ofilį"
+
+msgid "Failed to edit profile."
+msgstr "Nepavyko redaguoti profilį."
+
+msgid "Failed to execute command \"%s\"."
+msgstr "Nepavyko įvykdyti komandos \"%s\"."
+
+msgid "Failed to launch menu editor."
+msgstr "Nepavyko paleisti meniu redaktoriaus."
+
+msgid "Failed to lock screen."
+msgstr "Nepavyko užrakinti ekrano."
+
+msgid "Failed to open settings manager."
+msgstr "Nepavyko atverti nustatymų tvarkytuvės."
+
+msgid "Home"
+msgstr "Namų aplankas"
+
+msgid "Open URI"
+msgstr "Atverti URI"
+
+msgid "Run %s"
+msgstr "Vykdyti %s"
+
+msgid "Search Action"
+msgstr "Paieškos veiksmas"
+
+msgid "Settings"
+msgstr "Nustatymai"
+
+msgid "Shut _Down"
+msgstr "Išj_ungti"
+
+msgid "Software"
+msgstr "Programinė įranga"
+
+msgid "Unable to add launcher to desktop."
+msgstr "Nepavyko pridėti leistuko į darbalaukį."
+
+msgid "Unable to add launcher to panel."
+msgstr "Nepavyko pridėti leistuko į skydelį."
+
+msgid "Unable to edit launcher."
+msgstr "Nepavyko redaguoti leistuko."
+
+msgid "_Edit Applications"
+msgstr "Taisyti p_rogramas"
+
+msgid "_Lock Screen"
+msgstr "_Užrakinti ekraną"
+
+msgid "translator-credits"
+msgstr "Moo"

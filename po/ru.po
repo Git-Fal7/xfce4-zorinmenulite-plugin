@@ -1,0 +1,101 @@
+# Russian translation of xfce4-zorinmenulite-plugin.
+# Copyright (C) 2017 Graeme Gott
+# This file is distributed under the same license as the xfce4-zorinmenulite-plugin package.
+#
+# Translators:
+# sorrymak <dearalcher@gmail.com>, 2013
+# Kyrill Detinov <lazy.kent@opensuse.org>, 2013,2016
+# Sergey Alyoshin <alyoshin.s@gmail.com>, 2013-2015,2017
+# Sergey Shlyapugin <shlyapugin@gmail.com>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: Zorin Menu Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-06 22:55+0000\n"
+"PO-Revision-Date: 2017-09-28 05:12+0000\n"
+"Last-Translator: Sergey Alyoshin <alyoshin.s@gmail.com>\n"
+"Language-Team: Russian (http://www.transifex.com/gottcode/xfce4-"
+"zorinmenulite-plugin/language/ru/)\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
+"%100>=11 && n%100<=14)? 2 : 3);\n"
+
+msgid "Add to Desktop"
+msgstr "Добавить на «Рабочий стол»"
+
+msgid "Add to Panel"
+msgstr "Добавить на панель"
+
+msgid "All"
+msgstr "Все"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Edit Application..."
+msgstr "Изменить приложение..."
+
+msgid "Edit _Profile"
+msgstr "Изменить профиль"
+
+msgid "Failed to edit profile."
+msgstr "Не удалось изменить профиль."
+
+msgid "Failed to execute command \"%s\"."
+msgstr "Ошибка выполнения команды «%s»."
+
+msgid "Failed to launch menu editor."
+msgstr "Не удалось запустить редактор меню."
+
+msgid "Failed to lock screen."
+msgstr "Не удалось заблокировать экран."
+
+msgid "Failed to open settings manager."
+msgstr "Не удалось открыть диспетчер настроек."
+
+msgid "Home"
+msgstr "Домашняя папка"
+
+msgid "Open URI"
+msgstr "Открыть URI"
+
+msgid "Run %s"
+msgstr "Выполнить %s"
+
+msgid "Search Action"
+msgstr "Поисковое действие"
+
+msgid "Settings"
+msgstr "Параметры"
+
+msgid "Shut _Down"
+msgstr "Выклю_чение"
+
+msgid "Software"
+msgstr "Менеджер приложений"
+
+msgid "Unable to add launcher to desktop."
+msgstr "Невозможно добавить значок запуска на «Рабочий стол»."
+
+msgid "Unable to add launcher to panel."
+msgstr "Невозможно добавить значок запуска на панель."
+
+msgid "Unable to edit launcher."
+msgstr "Невозможно изменить значок запуска."
+
+msgid "_Edit Applications"
+msgstr "Изменить п_риложения"
+
+msgid "_Lock Screen"
+msgstr "Заб_локировать экран"
+
+msgid "translator-credits"
+msgstr ""
+"Артём Демаков <dearalcher@gmail.com>, 2013\n"
+"Кирилл Детинов <lazy.kent@opensuse.org>, 2013-2016\n"
+"Сергей Алёшин <alyoshin.s@gmail.com>, 2013, 2014\n"
+"Сергей Шляпугин <shlyapugin@gmail.com>, 2013"

@@ -1,0 +1,96 @@
+# Ukrainian translation of xfce4-zorinmenulite-plugin.
+# Copyright (C) 2016 Graeme Gott
+# This file is distributed under the same license as the xfce4-zorinmenulite-plugin package.
+#
+# Translators:
+# Yarema aka Knedlyk <yupadmin@gmail.com>, 2013-2014,2016
+# zubr139, 2013,2016
+msgid ""
+msgstr ""
+"Project-Id-Version: Zorin Menu Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-06 22:55+0000\n"
+"PO-Revision-Date: 2016-10-30 20:02+0000\n"
+"Last-Translator: Yarema aka Knedlyk <yupadmin@gmail.com>\n"
+"Language-Team: Ukrainian (http://www.transifex.com/gottcode/xfce4-"
+"zorinmenulite-plugin/language/uk/)\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "Add to Desktop"
+msgstr "Додати до стільниці"
+
+msgid "Add to Panel"
+msgstr "Додати на панель"
+
+msgid "All"
+msgstr "Все"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Edit Application..."
+msgstr "_Редагувати програми"
+
+msgid "Edit _Profile"
+msgstr "Редагувати_Профіль"
+
+msgid "Failed to edit profile."
+msgstr "Не вдалося змінити профіль."
+
+msgid "Failed to execute command \"%s\"."
+msgstr "Не вдалося виконати команду \"%s\"."
+
+msgid "Failed to launch menu editor."
+msgstr "Неможливо запустити редактор меню"
+
+msgid "Failed to lock screen."
+msgstr "Не вдалося заблокувати екран."
+
+msgid "Failed to open settings manager."
+msgstr "Не вдалося відкрити менеджер налаштувань."
+
+msgid "Home"
+msgstr "Домівка"
+
+msgid "Open URI"
+msgstr "Відкрити посилання"
+
+msgid "Run %s"
+msgstr "Запустити %s"
+
+msgid "Search Action"
+msgstr "Шукати дію"
+
+msgid "Settings"
+msgstr "Параметри"
+
+msgid "Shut _Down"
+msgstr "_Вимкнути комп'ютер"
+
+msgid "Software"
+msgstr "Програми"
+
+msgid "Unable to add launcher to desktop."
+msgstr "Неможливо додати запускач до стільниці."
+
+msgid "Unable to add launcher to panel."
+msgstr "Неможливо додати запускач на панель."
+
+msgid "Unable to edit launcher."
+msgstr "Неможливо додати запускач на панель."
+
+msgid "_Edit Applications"
+msgstr "_Редагувати програми"
+
+msgid "_Lock Screen"
+msgstr "_Замкнути екран"
+
+msgid "translator-credits"
+msgstr ""
+"Yarema aka Knedlyk <yupadmin at gmail.com>,\n"
+"Zubr139"

@@ -1,0 +1,93 @@
+# Nepali translation of xfce4-zorinmenulite-plugin.
+# Copyright (C) 2017 Graeme Gott
+# This file is distributed under the same license as the xfce4-zorinmenulite-plugin package.
+#
+# Translators:
+# starryprabin <mr.prabin@gmail.com>, 2013-2017
+# Prabin Gautam <PRABINGAUTAM@gmail.com>, 2013-2014
+msgid ""
+msgstr ""
+"Project-Id-Version: Zorin Menu Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-06 22:55+0000\n"
+"PO-Revision-Date: 2017-07-18 18:35+0000\n"
+"Last-Translator: starryprabin <mr.prabin@gmail.com>\n"
+"Language-Team: Nepali (http://www.transifex.com/gottcode/xfce4-zorinmenulite-"
+"plugin/language/ne/)\n"
+"Language: ne\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Add to Desktop"
+msgstr "डेस्कटपमा थप्नुहोस्"
+
+msgid "Add to Panel"
+msgstr "पट्टीमा थप्नुहोस् "
+
+msgid "All"
+msgstr "समस्त"
+
+msgid "Back"
+msgstr "पछाडि"
+
+msgid "Edit Application..."
+msgstr "अनुप्रयोगलाई सम्पादन गर्नुहोस् ..."
+
+msgid "Edit _Profile"
+msgstr "पाश्र्वचित्र सम्पादन गर्नुहोस्"
+
+msgid "Failed to edit profile."
+msgstr "पाश्र्वचित्र सम्पादन गर्न बिफल"
+
+msgid "Failed to execute command \"%s\"."
+msgstr "\"%s\" आदेशलाई कार्यान्वयन गर्न  बिफल।"
+
+msgid "Failed to launch menu editor."
+msgstr "मेनु सम्पादक सुरु गर्न बिफल।"
+
+msgid "Failed to lock screen."
+msgstr "स्क्रिन लक गर्न  बिफल ।"
+
+msgid "Failed to open settings manager."
+msgstr "प्राथमिकता व्यवस्थापक खोल्न  बिफल।"
+
+msgid "Home"
+msgstr "गृह"
+
+msgid "Open URI"
+msgstr "युआरआइ खोल्नुहोस्"
+
+msgid "Run %s"
+msgstr "%s चालु गर्नुहोस्"
+
+msgid "Search Action"
+msgstr "कार्य खोज्नुहोस्"
+
+msgid "Settings"
+msgstr "सेटिङ"
+
+msgid "Shut _Down"
+msgstr ""
+
+msgid "Software"
+msgstr "सफ्टवेयर"
+
+msgid "Unable to add launcher to desktop."
+msgstr "प्रक्षेपकलाई डेस्कटपमा थप्न असमर्थ।"
+
+msgid "Unable to add launcher to panel."
+msgstr "प्रक्षेपकलाई पट्टीमा थप्न असमर्थ।"
+
+msgid "Unable to edit launcher."
+msgstr "प्रक्षेपकलाई सम्पादन गर्न असमर्थ।"
+
+msgid "_Edit Applications"
+msgstr "अनुप्रयोगहरु सम्पादन गर्नुहोस्"
+
+msgid "_Lock Screen"
+msgstr "स्क्रिन लक गर्नुहोस्"
+
+msgid "translator-credits"
+msgstr "अनुवादक-आभार "

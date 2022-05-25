@@ -1,0 +1,93 @@
+# Uzbek translation of xfce4-zorinmenulite-plugin.
+# Copyright (C) 2015 Graeme Gott
+# This file is distributed under the same license as the xfce4-zorinmenulite-plugin package.
+#
+# Translators:
+# Umid Almasov <u.almasov@gmail.com>, 2013-2014
+# Umid Almasov <u.almasov@gmail.com>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: Zorin Menu Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-06 22:55+0000\n"
+"PO-Revision-Date: 2014-08-18 12:06+0000\n"
+"Last-Translator: Umid Almasov <u.almasov@gmail.com>\n"
+"Language-Team: Uzbek (http://www.transifex.com/projects/p/xfce4-"
+"zorinmenulite-plugin/language/uz/)\n"
+"Language: uz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Add to Desktop"
+msgstr "Ishchi stolga qo'shish"
+
+msgid "Add to Panel"
+msgstr "Panelga qo'shish"
+
+msgid "All"
+msgstr "Hammasi"
+
+msgid "Back"
+msgstr ""
+
+msgid "Edit Application..."
+msgstr "Dasturlarni _tahrirlash"
+
+msgid "Edit _Profile"
+msgstr ""
+
+msgid "Failed to edit profile."
+msgstr "Foydalanuvchilarni almashtirish muvaffaqiyatsiz tugadi."
+
+msgid "Failed to execute command \"%s\"."
+msgstr "\"%s\" buyrug'ini bajarish muvaffaqiyatsiz tugadi."
+
+msgid "Failed to launch menu editor."
+msgstr "Menyu tahrirchisini ishga tushirish muvaffaqiyatsiz tugadi."
+
+msgid "Failed to lock screen."
+msgstr "Ekranni qulflash muvaffaqiyatsiz tugadi."
+
+msgid "Failed to open settings manager."
+msgstr "Moslamalar boshqaruvchisini ochish muvaffaqiyatsiz tugadi."
+
+msgid "Home"
+msgstr ""
+
+msgid "Open URI"
+msgstr "URI ochish"
+
+msgid "Run %s"
+msgstr "%s ishga tushirish"
+
+msgid "Search Action"
+msgstr "Harakatni qidirish"
+
+msgid "Settings"
+msgstr ""
+
+msgid "Shut _Down"
+msgstr ""
+
+msgid "Software"
+msgstr ""
+
+msgid "Unable to add launcher to desktop."
+msgstr "Ishga tushiruvchini ishchi stolga qo'shib bo'lmadi."
+
+msgid "Unable to add launcher to panel."
+msgstr "Ishga tushiruvchini panelga qo'shib bo'lmadi."
+
+msgid "Unable to edit launcher."
+msgstr "Ishga tushiruvchini panelga qo'shib bo'lmadi."
+
+msgid "_Edit Applications"
+msgstr "Dasturlarni _tahrirlash"
+
+msgid "_Lock Screen"
+msgstr "Ekranni _bloklash"
+
+msgid "translator-credits"
+msgstr "Umid Almasov <u.almasov@gmail.com>, 2014"

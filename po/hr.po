@@ -1,0 +1,94 @@
+# Croatian translation of xfce4-zorinmenulite-plugin.
+# Copyright (C) 2016 Graeme Gott
+# This file is distributed under the same license as the xfce4-zorinmenulite-plugin package.
+#
+# Translators:
+# Ante Grubišić Čabo <ante.gc@gmail.com>, 2016
+# Ilija Ćulap <ilija.culap14@gmail.com>, 2013-2015
+msgid ""
+msgstr ""
+"Project-Id-Version: Zorin Menu Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-06 22:55+0000\n"
+"PO-Revision-Date: 2016-12-01 14:12+0000\n"
+"Last-Translator: Ante Grubišić Čabo <ante.gc@gmail.com>\n"
+"Language-Team: Croatian (http://www.transifex.com/gottcode/xfce4-"
+"zorinmenulite-plugin/language/hr/)\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+
+msgid "Add to Desktop"
+msgstr "Dodaj na Radnu površinu"
+
+msgid "Add to Panel"
+msgstr "Dodaj na ploču"
+
+msgid "All"
+msgstr "Sve"
+
+msgid "Back"
+msgstr ""
+
+msgid "Edit Application..."
+msgstr "_Uredi Aplikacije"
+
+msgid "Edit _Profile"
+msgstr "Uredi profil"
+
+msgid "Failed to edit profile."
+msgstr "Nije moguće urediti profil."
+
+msgid "Failed to execute command \"%s\"."
+msgstr "Nije moguće izvršiti naredbu \"%s\"."
+
+msgid "Failed to launch menu editor."
+msgstr "Nije moguće pokrenuti uređivač izbornika."
+
+msgid "Failed to lock screen."
+msgstr "Zaključavanje zaslona nije moguće."
+
+msgid "Failed to open settings manager."
+msgstr "Nije moguće otvoriti Upravitelja Postavki."
+
+msgid "Home"
+msgstr ""
+
+msgid "Open URI"
+msgstr "Otvori URL"
+
+msgid "Run %s"
+msgstr "Pokreni %s"
+
+msgid "Search Action"
+msgstr "Pretraži akcije"
+
+msgid "Settings"
+msgstr ""
+
+msgid "Shut _Down"
+msgstr "Isklju_či"
+
+msgid "Software"
+msgstr ""
+
+msgid "Unable to add launcher to desktop."
+msgstr "Nije moguće dodati pokretač na Radnu površinu."
+
+msgid "Unable to add launcher to panel."
+msgstr "Nije moguće dodati pokretač na Ploču"
+
+msgid "Unable to edit launcher."
+msgstr "Nije moguće dodati pokretač na Ploču"
+
+msgid "_Edit Applications"
+msgstr "_Uredi Aplikacije"
+
+msgid "_Lock Screen"
+msgstr "_Zaključaj Zaslon"
+
+msgid "translator-credits"
+msgstr "Zasluge za prijevod"

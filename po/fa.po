@@ -1,0 +1,92 @@
+# Persian translation of xfce4-zorinmenulite-plugin.
+# Copyright (C) 2015 Graeme Gott
+# This file is distributed under the same license as the xfce4-zorinmenulite-plugin package.
+#
+# Translators:
+# Reza Gharibi <reza.gharibi.rg@gmail.com>, 2013-2015
+msgid ""
+msgstr ""
+"Project-Id-Version: Zorin Menu Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-06 22:55+0000\n"
+"PO-Revision-Date: 2015-06-04 14:31+0000\n"
+"Last-Translator: Reza Gharibi <reza.gharibi.rg@gmail.com>\n"
+"Language-Team: Persian (http://www.transifex.com/gottcode/xfce4-"
+"zorinmenulite-plugin/language/fa/)\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Add to Desktop"
+msgstr "اضافه کردن به میزکار"
+
+msgid "Add to Panel"
+msgstr "اضافه‌کردن به پنل"
+
+msgid "All"
+msgstr "همه"
+
+msgid "Back"
+msgstr "برگشت"
+
+msgid "Edit Application..."
+msgstr "_ویرایش برنامه‌ها"
+
+msgid "Edit _Profile"
+msgstr "ویرایش _پروفایل"
+
+msgid "Failed to edit profile."
+msgstr "ویرایش پروفایل ناموفق بود."
+
+msgid "Failed to execute command \"%s\"."
+msgstr "اجرای دستور \"%s\" شکست خورد."
+
+msgid "Failed to launch menu editor."
+msgstr "اجرای ویرایشگر منو با شکست مواجه شد."
+
+msgid "Failed to lock screen."
+msgstr "قفل‌کردن صفحه‌نمایش با شکست مواجه شد."
+
+msgid "Failed to open settings manager."
+msgstr "بازکردن مدیریت تنظیمات با شکست مواجه شد."
+
+msgid "Home"
+msgstr "منزل"
+
+msgid "Open URI"
+msgstr "بازکردن آدرس"
+
+msgid "Run %s"
+msgstr "اجرای %s"
+
+msgid "Search Action"
+msgstr "جست‌و‌جوی اعمال"
+
+msgid "Settings"
+msgstr "تنظیمات"
+
+msgid "Shut _Down"
+msgstr ""
+
+msgid "Software"
+msgstr "برنامه"
+
+msgid "Unable to add launcher to desktop."
+msgstr "ناتوان در اضافه‌کردن لانچر به میزکار."
+
+msgid "Unable to add launcher to panel."
+msgstr "ناتوان در اضافه‌کردن لانچر به پنل."
+
+msgid "Unable to edit launcher."
+msgstr "ناتوان در اضافه‌کردن لانچر به پنل."
+
+msgid "_Edit Applications"
+msgstr "_ویرایش برنامه‌ها"
+
+msgid "_Lock Screen"
+msgstr "_قفل‌کردن صفحه‌نمایش"
+
+msgid "translator-credits"
+msgstr "ترجمه کننده‌ها"

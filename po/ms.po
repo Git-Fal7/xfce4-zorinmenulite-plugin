@@ -1,0 +1,92 @@
+# Malay translation of xfce4-zorinmenulite-plugin.
+# Copyright (C) 2017 Graeme Gott
+# This file is distributed under the same license as the xfce4-zorinmenulite-plugin package.
+#
+# Translators:
+# abuyop <abuyop@gmail.com>, 2013-2015,2017
+msgid ""
+msgstr ""
+"Project-Id-Version: Zorin Menu Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-06 22:55+0000\n"
+"PO-Revision-Date: 2017-12-01 09:53+0000\n"
+"Last-Translator: abuyop <abuyop@gmail.com>\n"
+"Language-Team: Malay (http://www.transifex.com/gottcode/xfce4-zorinmenulite-"
+"plugin/language/ms/)\n"
+"Language: ms\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Add to Desktop"
+msgstr "Tambah ke Desktop"
+
+msgid "Add to Panel"
+msgstr "Tambah ke Panel"
+
+msgid "All"
+msgstr "Semua"
+
+msgid "Back"
+msgstr "Kembali"
+
+msgid "Edit Application..."
+msgstr "Sunting Aplikasi..."
+
+msgid "Edit _Profile"
+msgstr "Sunting _Profil"
+
+msgid "Failed to edit profile."
+msgstr "Gagal menyunting profil."
+
+msgid "Failed to execute command \"%s\"."
+msgstr "Gagal lakukan perintah \"%s\"."
+
+msgid "Failed to launch menu editor."
+msgstr "Gagal melancarkan penyunting menu."
+
+msgid "Failed to lock screen."
+msgstr "Gagal mengunci skrin."
+
+msgid "Failed to open settings manager."
+msgstr "Gagal membuka pengurus tetapan."
+
+msgid "Home"
+msgstr "Rumah"
+
+msgid "Open URI"
+msgstr "Buka URI"
+
+msgid "Run %s"
+msgstr "Jalankan %s"
+
+msgid "Search Action"
+msgstr "Gelintar Tindakan"
+
+msgid "Settings"
+msgstr "Tetapan"
+
+msgid "Shut _Down"
+msgstr "Matikan"
+
+msgid "Software"
+msgstr "Pasang Perisian"
+
+msgid "Unable to add launcher to desktop."
+msgstr "Tidak boleh tambah pelancar ke desktop."
+
+msgid "Unable to add launcher to panel."
+msgstr "Tidak boleh tambah pelancar ke panel."
+
+msgid "Unable to edit launcher."
+msgstr "Tidak boleh sunting pelancar."
+
+msgid "_Edit Applications"
+msgstr "_Sunting Aplikasi"
+
+msgid "_Lock Screen"
+msgstr "_Kunci Skrin"
+
+msgid "translator-credits"
+msgstr "abuyop"
