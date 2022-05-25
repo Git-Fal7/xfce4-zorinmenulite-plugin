@@ -128,7 +128,7 @@ ZorinMenuLite::Window::Window(Plugin* plugin) :
 	m_quicklinks[1] = new Command("preferences-system-symbolic",_("Settings"), "xfce4-settings-manager", _("Failed to open settings manager."), true, this);
 
 	// Create quicklink buttons
-	for (int i = 0; i < 3; ++i)
+	for (int i = 0; i < sizeof(m_quicklinks)/sizeof(m_quicklinks[0]); ++i)
 	{
 		m_quicklinks_button[i] = m_quicklinks[i]->get_button();
 		m_quicklink_slots[i] = g_signal_connect_slot<GtkButton*>(m_quicklinks_button[i], "clicked", &Window::hide, this);
