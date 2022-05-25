@@ -126,7 +126,6 @@ ZorinMenuLite::Window::Window(Plugin* plugin) :
 	// Create quicklink commands
 	m_quicklinks[0] = new Command("gnome-software-symbolic",_("Software"), "gnome-software", _("Failed to open Software."), true, this);
 	m_quicklinks[1] = new Command("preferences-system-symbolic",_("Settings"), "xfce4-settings-manager", _("Failed to open settings manager."), true, this);
-	m_quicklinks[2] = new Command("zorin-appearance-symbolic",_("Zorin Appearance"), "zorin-appearance", _("Failed to open Zorin Appearance."), true, this);
 
 	// Create quicklink buttons
 	for (int i = 0; i < 3; ++i)
