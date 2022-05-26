@@ -106,7 +106,7 @@ Plugin::Plugin(XfcePanelPlugin* plugin) :
 
 	m_button_icon = GTK_IMAGE(gtk_image_new());
 	gtk_image_set_from_icon_name (m_button_icon,
-                                  "start-here", GTK_ICON_SIZE_MENU);
+                                  "xfce4-zorinmenulite-symbolic", GTK_ICON_SIZE_MENU);
 	gtk_box_pack_start(m_button_box, GTK_WIDGET(m_button_icon), true, false, 0);
 	gtk_widget_show(GTK_WIDGET(m_button_icon));
 	gtk_widget_set_sensitive(GTK_WIDGET(m_button_icon), false);
