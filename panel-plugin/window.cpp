@@ -225,7 +225,7 @@ ZorinMenuLite::Window::Window(Plugin* plugin) :
 
 	// Create box for sidebar quicklinks
 	m_quicklinks_box = GTK_BOX(gtk_box_new(GTK_ORIENTATION_VERTICAL, 0));
-	for (int i = 0; i < 3; ++i)
+	for (int i = 0; i < sizeof(m_quicklinks)/sizeof(m_quicklinks[0]); ++i)
 	{
 		gtk_box_pack_start(m_quicklinks_box, m_quicklinks_button[i], true, true, 0);
 	}
@@ -276,7 +276,7 @@ ZorinMenuLite::Window::~Window()
 		}
 	}
 
-	for (int i = 0; i < 3; ++i)
+	for (int i = 0; i < sizeof(m_quicklinks)/sizeof(m_quicklinks[0]); ++i)
 	{
 		g_signal_handler_disconnect(m_quicklinks_button[i], m_quicklink_slots[i]);
 		gtk_container_remove(GTK_CONTAINER(m_quicklinks_box), m_quicklinks_button[i]);
@@ -316,7 +316,7 @@ void ZorinMenuLite::Window::hide()
 	}
 
 	// Hide quicklink buttons to remove active border
-	for (int i = 0; i < 3; ++i)
+	for (int i = 0; i < sizeof(m_quicklinks)/sizeof(m_quicklinks[0]); ++i)
 	{
 		gtk_widget_set_visible(m_quicklinks_button[i], false);
 	}
@@ -346,7 +346,7 @@ void ZorinMenuLite::Window::show(const Position position)
 	}
 
 	// Make sure quicklinks are valid and visible
-	for (int i = 0; i < 3; ++i)
+	for (int i = 0; i < sizeof(m_quicklinks)/sizeof(m_quicklinks[0]); ++i)
 	{
 		m_quicklinks[i]->check();
 	}
